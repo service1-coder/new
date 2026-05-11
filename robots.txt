@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://service1-coder.github.io/new/sitemap.xml
